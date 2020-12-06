@@ -1,0 +1,5 @@
+ini contoh 
+
+line 2a
+line 2b
+line 3
